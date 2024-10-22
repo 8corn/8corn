@@ -1,4 +1,4 @@
-## 안녕하십니까 개발자 김정권입니다!! 😊
+## 안녕하십니까!! 😊
 
 ![8corn's GitHub stats](https://github-readme-stats.vercel.app/api?username=8corn&show_icons=true&theme=radical)
 
