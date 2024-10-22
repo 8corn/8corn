@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8corn&layout=compact)
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">🐒 Tech Stack 🐒</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-945DF6?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-2C49EC?style=for-the-badge&logo=c&logoColor=black" />&nbsp
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📖 Studying 📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/swift-2C49EC.svg?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">⚙️ Tools ⚙️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/androidstudio-FF000000.svg?style=for-the-badge&logo=androidstudio&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -47,8 +47,9 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-
+<h3 align="center">📨 Contact 📨</h3>
+<div align="center">
+  
 </div>
 
 <!--
