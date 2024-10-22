@@ -7,7 +7,7 @@
 <!--내용 부분-->
 <h3 align="center">🐒 Tech Stack 🐒</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/kotlin-945DF6?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-AD87F1?style=for-the-badge&logo=kotlin&logoColor=FF11032A" />&nbsp
   <img src="https://img.shields.io/badge/c++-2C49EC?style=for-the-badge&logo=c&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
@@ -49,7 +49,7 @@
 
 <h3 align="center">📨 Contact 📨</h3>
 <div align="center">
-  
+  <img src="https://img.shields.io/badge/wjdrnjs112987@gmail.com-7FC7FE.svg?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
 </div>
 
 <!--
