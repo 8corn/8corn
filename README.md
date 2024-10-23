@@ -1,4 +1,4 @@
-## 안녕하십니까!! 😊
+## Happy Day 😊
 
 ![8corn's GitHub stats](https://github-readme-stats.vercel.app/api?username=8corn&show_icons=true&theme=radical)
 
