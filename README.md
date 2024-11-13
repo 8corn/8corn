@@ -20,7 +20,7 @@
 
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/reactnative-1C215D.svg?style=for-the-badge&logo=react&logoColor=1C215D" />&nbsp
+  <img src="https://img.shields.io/badge/reactnative-426EC7.svg?style=for-the-badge&logo=react&logoColor=1C215D" />&nbsp
   <img src="https://img.shields.io/badge/swift-2C49EC.svg?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 
