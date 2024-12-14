@@ -39,7 +39,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/goorm-F05033.svg?style=for-the-badge&logo=goormIDE&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/xcode-2C49EC.svg?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp
   
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
