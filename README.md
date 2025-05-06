@@ -1,9 +1,5 @@
 ## Happy Day 😊
 
-![8corn's GitHub stats](https://github-readme-stats.vercel.app/api?username=8corn&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8corn&layout=compact)
-
 <!--내용 부분-->
 <h3 align="center">🐒 Tech Stack 🐒</h3>
 <div align="center">
