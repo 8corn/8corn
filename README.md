@@ -9,12 +9,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-AD87F1?style=for-the-badge&logo=kotlin&logoColor=FF11032A" />&nbsp
   <img src="https://img.shields.io/badge/c++-2C49EC?style=for-the-badge&logo=c&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/dart-46C1ED.svg?style=for-the-badge&logo=dart&logoColor=276379" />&nbsp
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/ruby-EC4452?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
