@@ -20,7 +20,6 @@
 
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/reactnative-426EC7.svg?style=for-the-badge&logo=react&logoColor=1C215D" />&nbsp
   <img src="https://img.shields.io/badge/swift-2C49EC.svg?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 
@@ -39,10 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/goorm-F05033.svg?style=for-the-badge&logo=goormIDE&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/xcode-2C49EC.svg?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp
-  
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
@@ -51,18 +47,3 @@
 <div align="center">
   <img src="https://img.shields.io/badge/wjdrnjs112987@gmail.com-7FC7FE.svg?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
 </div>
-
-<!--
-**8corn/8corn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
