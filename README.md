@@ -1,4 +1,4 @@
-## Run or Die 😊
+## Run or Die 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8corn&layout=compact)
 
